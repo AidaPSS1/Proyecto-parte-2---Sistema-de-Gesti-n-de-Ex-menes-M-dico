@@ -134,11 +134,3 @@ proy/                     # Carpeta para documentos
     └── procedimiento1.pdf
     └── ...
 ```
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia [Apache 2.0](LICENSE).
